@@ -10,6 +10,7 @@
 bin/
 gen/
 build/
+M2.jar
 
 # local configuration file (for Android sdk path, etc)
 local.properties
@@ -24,4 +25,4 @@ local.properties
 # Android Studio
 *.iml
 .idea
-.gradle
+.gradle/
